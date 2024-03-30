@@ -1,0 +1,5 @@
+print("Hello, world!")
+a= input("Enter 2 values:  ")
+b = input()
+print("The values are:", a,b)
+print("HELLO:"+str(a))
